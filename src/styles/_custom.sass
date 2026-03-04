@@ -105,6 +105,10 @@ figcaption
   background-color: #E5EFEC !important
 .bg4
   background-color: #EDE8E6
+.bg5
+  background-color: #D7E5B9
+.bg6
+  background-color:  #B7A79D
 .bgc-1
   background-image: url('../assets/curso/temas/t1/bg.png')
   background-position: center
@@ -136,6 +140,11 @@ figcaption
   background-repeat: no-repeat
 .bgi-2
   background-image: url('../assets/curso/temas/t4/bg.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+.bgi-3
+  background-image: url('../assets/curso/temas/t5/bg.png')
   background-position: center
   background-size: cover
   background-repeat: no-repeat
@@ -171,16 +180,20 @@ figcaption
     content: ''
     position: absolute
     width: 25px
-    height: 100%
+    height: 95%
     background-color: #02614B
     left: 0px
     bottom: 0px
+.w-45x
+  width: 45px
 .w-95x
   width: 95px
 .br-top-r
   border-top-right-radius: 100px
 .mt-n15
   margin-top: -15%
+.mh-350
+  min-height: 350px
 
 
 .linea-tiempo-e:before
@@ -211,6 +224,48 @@ figcaption
     color: $color-sistema-texto
 .slyder-f__btn i
   color: $color-acento-botones
+.tabla-a.color-acento-contenido
+  table
+    thead
+      tr
+        th
+          background-color: $color-acento-contenido
+          color: white
+    tbody.t1
+      tr
+        td
+          text-align: left
+          &:first-child
+            font-weight: bold
+        &:nth-child(2n)
+          background-color: #F6F6F6
+    tbody.t2
+      tr
+        td
+          text-align: left
+          border-color: #AFAFAF
+        &:nth-child(2n)
+          background-color: #F6F6F6
+.tarjeta-audio.color-acento-botones 
+  .tarjeta-audio__texto
+    color: $color-sistema-texto
+    font-style: normal !important
+.slyder-e 
+  .slyder__btn
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+.mh-350
+  .tarjeta-slide__contenedor, .tarjeta-slide__contenido
+    min-height: 350px
+    display: flex
+    flex-direction: column
+    justify-content: center
+.tabs-c__tab
+  background-color: #FFEBCE
+  &--active
+    background-color: $white
+    font-weight: bold
+
 
 .avatar
   position: absolute

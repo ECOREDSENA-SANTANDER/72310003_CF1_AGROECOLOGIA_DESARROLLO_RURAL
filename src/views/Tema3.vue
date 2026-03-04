@@ -219,13 +219,13 @@
         p La economía solidaria constituye una alternativa organizativa basada en principios de cooperación y equidad, como: 
         .tarjeta.bg1.p-4
           ul.lista-ul--color.fa-lista
-            li.mb-14
+            li.mb-1
               i.fas.fa-spa
               span.mb-0 Asociaciones campesinas. 
-            li.mb-14
+            li.mb-1
               i.fas.fa-spa
               span.mb-0 Cooperativas rurales. 
-            li.mb-14
+            li.mb-1
               i.fas.fa-spa
               span.mb-0 Redes de comercio justo.
             li
