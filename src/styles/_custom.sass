@@ -265,6 +265,16 @@ figcaption
   &--active
     background-color: $white
     font-weight: bold
+.linea-tiempo-d
+  &__item__number, &__item__content__title
+    font-weight: bold
+  &__item--selected 
+    .linea-tiempo-d__item__number
+      color: $color-sistema-texto !important
+    .linea-tiempo-d__item__content
+      background-color: #EDE8E6
+  &__item__content, &__item__number
+    background-color: #FFEBCE
 
 
 .avatar

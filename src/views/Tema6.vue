@@ -159,24 +159,36 @@
       .col-lg-7(data-aos="fade-left")
         LineaTiempoD.color-acento-botones
           .row(numero="a" titulo="Diagnóstico ambiental")
-            p 
+            p Constituye la línea base del plan, el cual incluye: 
             ul.lista-ul--color.color-primario.fa-lista.mb-0
               li
                 i.fas.fa-check
-                span.mb-0 
+                span.mb-0 Descripción del predio (ubicación y características físicas). 
+              li
+                i.fas.fa-check
+                span.mb-0 Identificación de recursos naturales presentes (suelo, agua, flora y fauna). 
+            p.mb-0 Permite priorizar riesgos y fundamentar técnicamente las decisiones. 
           .row(numero="b" titulo="Medidas de manejo")
-            p 
+            p Son acciones concretas para gestionar los impactos identificados: 
             ul.lista-ul--color.color-primario.fa-lista.mb-0
               li
                 i.fas.fa-check
-                span.mb-0 
+                span.mb-0 #[b Prevención:] evitar que ocurra el impacto. 
+              li
+                i.fas.fa-check
+                span.mb-0 #[b Mitigación:] reducir su efecto. 
+              li
+                i.fas.fa-check
+                span.mb-0 #[b Corrección:] reparar daños causados. 
+              li.mb-0
+                i.fas.fa-check
+                span.mb-0 #[b Compensación:] equilibrar impactos inevitables. 
           .row(numero="c" titulo="Cronograma y responsables")
-            p 
+            p.mb-0 Define los tiempos de ejecución y asigna responsables para garantizar cumplimiento y control. 
           .row(numero="d" titulo="Seguimiento y evaluación")
-            p 
+            p.mb-0 Incluye indicadores ambientales y evaluaciones periódicas para verificar la efectividad del plan y aplicar mejoras continuas. 
 
         
-
     .subt-cuad.mb-4
       h4.mb-0.p-3.ps-5 Ejemplos de medidas en el sector agrícola: 
     
