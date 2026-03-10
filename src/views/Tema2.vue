@@ -107,38 +107,38 @@
     p.mb-5 Los principios ecológicos orientan el diseño y manejo de los agroecosistemas, buscando armonizar la producción agrícola con los procesos naturales. Estos principios permiten fortalecer la biodiversidad, el equilibrio biológico y la sostenibilidad a largo plazo. 
 
     .row.justify-content-center.mb-5
-        .col-lg-6(data-aos="fade-right")
-          .bg1
-            .row.justify-content-center
-              .col-lg-4.d-none.d-lg-block
-                img.mt-n15(src='@/assets/curso/temas/t2/3.svg', alt='')
-              .col-lg-8
-                .p-4
-                  ul.lista-ul--color.fa-lista.mb-4
-                    li.mb-1
-                      i.fas.fa-spa
-                      span.mb-0 Diversidad biológica. 
-                    li.mb-1
-                      i.fas.fa-spa
-                      span.mb-0 Estabilidad ecológica.
-                    li.mb-1
-                      i.fas.fa-spa
-                      span.mb-0 Reciclaje de biomasa.
-                    li.mb-1
-                      i.fas.fa-spa
-                      span.mb-0 Conservación del suelo. 
-                    li.mb-1
-                      i.fas.fa-spa
-                      span.mb-0 Regulación natural de plagas. 
-                    li.mb-1
-                      i.fas.fa-spa
-                      span.mb-0 Optimización del uso del agua. 
-                    li.mb-0
-                      i.fas.fa-spa
-                      span.mb-0 Resiliencia climática. 
-                  h5.tc-ac.mb-0 La biodiversidad es la base funcional del agroecosistema agroecológico. 
-        .col-lg-6.d-none.d-lg-block(data-aos="fade-left")
-          img(src='@/assets/curso/temas/t2/4.png', alt='')
+      .col-lg-6(data-aos="fade-right")
+        .bg1
+          .row.justify-content-center
+            .col-lg-4.d-none.d-lg-block
+              img.mt-n15(src='@/assets/curso/temas/t2/3.svg', alt='')
+            .col-lg-8
+              .p-4
+                ul.lista-ul--color.fa-lista.mb-4
+                  li.mb-1
+                    i.fas.fa-spa
+                    span.mb-0 Diversidad biológica. 
+                  li.mb-1
+                    i.fas.fa-spa
+                    span.mb-0 Estabilidad ecológica.
+                  li.mb-1
+                    i.fas.fa-spa
+                    span.mb-0 Reciclaje de biomasa.
+                  li.mb-1
+                    i.fas.fa-spa
+                    span.mb-0 Conservación del suelo. 
+                  li.mb-1
+                    i.fas.fa-spa
+                    span.mb-0 Regulación natural de plagas. 
+                  li.mb-1
+                    i.fas.fa-spa
+                    span.mb-0 Optimización del uso del agua. 
+                  li.mb-0
+                    i.fas.fa-spa
+                    span.mb-0 Resiliencia climática. 
+                h5.tc-ac.mb-0 La biodiversidad es la base funcional del agroecosistema agroecológico. 
+      .col-lg-6.d-none.d-lg-block(data-aos="fade-left")
+        img(src='@/assets/curso/temas/t2/4.png', alt='')
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
