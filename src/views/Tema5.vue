@@ -52,13 +52,13 @@
                     span.mb-0 Indispensable para la germinación de semillas.
                   li
                     i.fas.fa-check
-                    span.mb-0 Participa en la fotosíntesis y en el transporte de nutrientes
+                    span.mb-0 Participa en la fotosíntesis y en el transporte de nutrientes.
                   li
                     i.fas.fa-check
-                    span.mb-0 Regula la temperatura de las plantas
+                    span.mb-0 Regula la temperatura de las plantas.
                   li
                     i.fas.fa-check
-                    span.mb-0 Contribuye al mantenimiento de la estructura y fertilidad del suelo
+                    span.mb-0 Contribuye al mantenimiento de la estructura y fertilidad del suelo.
                   li.mb-0
                     i.fas.fa-check
                     span.mb-0 Permite el desarrollo adecuado de los cultivos.
@@ -111,7 +111,7 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 1. 
           span Ciclo hidrológico
-        img(src='@/assets/curso/temas/t5/fig1.png', alt='')
+        img(src='@/assets/curso/temas/t5/fig1.png', alt='Representa el ciclo hidrológico, describiendo el movimiento continuo del agua entre la superficie terrestre y la atmósfera. Se integran procesos como la evaporación desde cuerpos de agua, la transpiración de las plantas, la condensación en la atmósfera y la posterior precipitación sobre el territorio. Finalmente, el agua se acumula en ríos, lagos y océanos, cerrando el ciclo y evidenciando la dinámica permanente del recurso hídrico en los ecosistemas. ')
       .col-lg-3(data-aos="fade-left")
         img.w-45x.mb-3(src='@/assets/curso/temas/t5/6.svg', alt='')
         p Sin embargo, el crecimiento de la población, la contaminación y el uso inadecuado del agua han provocado su deterioro y escasez en muchas regiones del mundo. Por ello, la conservación de las fuentes de agua se ha convertido en una prioridad ambiental, ya que garantiza su disponibilidad para las generaciones presentes y futuras.

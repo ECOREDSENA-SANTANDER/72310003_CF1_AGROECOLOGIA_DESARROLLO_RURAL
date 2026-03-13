@@ -17,7 +17,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Agroecología y evaluación ambiental de los sistemas agrícolas',
-      titulo: 'Cuestionario: Agroecología y evaluación ambiental',
+      titulo: 'Cuestionario',
       introduccion:
         '<b>Objetivo:</b> verificar la comprensión de los conceptos fundamentales relacionados con la agroecología y la evaluación ambiental de los sistemas agrícolas.',
       barajarPreguntas: true,

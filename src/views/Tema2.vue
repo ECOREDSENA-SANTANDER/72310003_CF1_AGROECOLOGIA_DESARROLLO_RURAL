@@ -176,7 +176,7 @@
     p La agroecología se entiende desde una perspectiva integral que abarca su dimensión científica, su aplicación práctica en el campo y su carácter de movimiento social transformador. Esta triple óptica permite articular conocimiento académico, saberes tradicionales y acción colectiva en favor de sistemas alimentarios sostenibles. 
 
     .row.justify-content-center.cursor-pointer.mb-4
-      .col-lg-4.col-md-6.col-11.mb-3.mb-lg-0
+      .col-xl-4.col-md-6.col-11.mb-3.mb-xl-0
         .crd_hover_txt(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
@@ -184,14 +184,14 @@
           .crd_hover_txt--body
             h4.mb-3 Como ciencia
             p.mb-0 Estudia los agroecosistemas desde principios ecológicos, analizando interacciones entre suelo, plantas, animales, clima y seres humanos.
-      .col-lg-4.col-md-6.col-11.mb-3.mb-lg-0
+      .col-xl-4.col-md-6.col-11.mb-3.mb-xl-0
         .crd_hover_txt
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/t2/tarj2-2.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Como práctica
             p.mb-0 Se materializa en técnicas como policultivos, sistemas agroforestales, manejo integrado de plagas, uso de abonos orgánicos y conservación de semillas nativas.
-      .col-lg-4.col-md-6.col-11.mb-3.mb-lg-0
+      .col-xl-4.col-md-6.col-11.mb-3.mb-xl-0
         .crd_hover_txt
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/t2/tarj2-3.png", alt="")

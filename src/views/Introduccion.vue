@@ -22,7 +22,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4(data-aos="fade-right")
-        p Es así, como la agroecología surge como una alternativa que integra principios ecológicos, conocimientos tradicionales y criterios de sostenibilidad social y económica. Por ello, más que una técnica agrícola, la agroecología constituye un enfoque integral que concibe una “finca” como un “agroecosistema”, donde interactúan factores biológicos, físicos y humanos. Su propósito es diseñar sistemas resilientes, diversificados y armónicos con el entorno natural.
+        p Es así, como la agroecología surge como una alternativa que integra principios ecológicos, conocimientos tradicionales y criterios de sostenibilidad social y económica. Por ello, más que una técnica agrícola, la agroecología constituye un enfoque integral que concibe una #[b “finca”] como un #[b “agroecosistema”], donde interactúan factores biológicos, físicos y humanos. Su propósito es diseñar sistemas resilientes, diversificados y armónicos con el entorno natural.
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/intro/3.svg', alt='')
       .col-lg-5(data-aos="fade-left")

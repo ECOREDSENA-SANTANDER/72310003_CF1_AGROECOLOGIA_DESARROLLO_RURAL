@@ -167,6 +167,9 @@
               li
                 i.fas.fa-check
                 span.mb-0 Identificación de recursos naturales presentes (suelo, agua, flora y fauna). 
+              li
+                i.fas.fa-check
+                span.mb-0 Identificación y análisis de impactos ambientales. 
             p.mb-0 Permite priorizar riesgos y fundamentar técnicamente las decisiones. 
           .row(numero="b" titulo="Medidas de manejo")
             p Son acciones concretas para gestionar los impactos identificados: 
@@ -193,35 +196,35 @@
       h4.mb-0.p-3.ps-5 Ejemplos de medidas en el sector agrícola: 
     
     .row.justify-content-center(data-aos="fade")
-      .col-lg.col-md-6.mb-3
+      .col-xl.col-lg-4.col-md-6.mb-3
         .tarjeta.bg3.h-100.p-4.p-lg-3
           .row.align-items-center
             .col-lg-3.col-md-3.col-3.pe-lg-0
               img(src='@/assets/curso/temas/t6/tarj2-1.svg', alt='')
             .col-lg-9.col-md-9.col-9
               p.mb-0 Rotación de cultivos. 
-      .col-lg.col-md-6.mb-3
+      .col-xl.col-lg-4.col-md-6.mb-3
         .tarjeta.bg3.h-100.p-4.p-lg-3
           .row.align-items-center
             .col-lg-3.col-md-3.col-3.pe-lg-0
               img(src='@/assets/curso/temas/t6/tarj2-2.svg', alt='')
             .col-lg-9.col-md-9.col-9
               p.mb-0 Sistemas silvopastoriles. 
-      .col-lg.col-md-6.mb-3
+      .col-xl.col-lg-4.col-md-6.mb-3
         .tarjeta.bg3.h-100.p-4.p-lg-3
           .row.align-items-center
             .col-lg-3.col-md-3.col-3.pe-lg-0
               img(src='@/assets/curso/temas/t6/tarj2-3.svg', alt='')
             .col-lg-9.col-md-9.col-9
               p.mb-0 Manejo adecuado de residuos orgánicos. 
-      .col-lg.col-md-6.mb-3
+      .col-xl.col-lg-4.col-md-6.mb-3
         .tarjeta.bg3.h-100.p-4.p-lg-3
           .row.align-items-center
             .col-lg-3.col-md-3.col-3.pe-lg-0
               img(src='@/assets/curso/temas/t6/tarj2-4.svg', alt='')
             .col-lg-9.col-md-9.col-9
               p.mb-0 Protección de fuentes hídricas. 
-      .col-lg.col-md-6.mb-3
+      .col-xl.col-lg-4.col-md-6.mb-3
         .tarjeta.bg3.h-100.p-4.p-lg-3
           .row.align-items-center
             .col-lg-3.col-md-3.col-3.pe-lg-0

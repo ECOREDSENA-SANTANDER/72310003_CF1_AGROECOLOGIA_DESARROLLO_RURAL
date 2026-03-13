@@ -254,13 +254,10 @@ export default {
     {
       referencia:
         'Escobar Guevara, J. (s. f.). Prácticas agrícolas para la conservación del agua. En Colombia.',
-      link:
-        'https://encolombia.com/economia/agroindustria/practicas-agricolas-para-la-conservacion-del-agua/',
     },
     {
       referencia:
         'Food and Agriculture Organization of the United Nations. (s. f.). La participación campesina y sus potencialidades para una agricultura sostenible en América Latina (Capítulo IV). FAO.',
-      link: 'https://www.fao.org/4/t3666s/t3666s06.htm',
     },
     {
       referencia:
@@ -269,8 +266,6 @@ export default {
     {
       referencia:
         'Ministerio de Agricultura y Desarrollo Rural. (s. f.). Gestión ambiental en el sector agropecuario. Repositorio AGROSAVIA.',
-      link:
-        'https://repository.agrosavia.co/server/api/core/bitstreams/a8b5143b-609b-4deb-948e-de673907703e/content',
     },
     {
       referencia:
@@ -280,14 +275,10 @@ export default {
     {
       referencia:
         'Rieggo. (2023). La importancia de la conservación del agua en la agricultura y cómo implementar prácticas de conservación.',
-      link:
-        'https://rieggo.com/blog/la-importancia-de-la-conservacion-del-agua-en-la-agricultura-y-como-implementar-practicas-de-conservacion/',
     },
     {
       referencia:
         'Rincón Atuesta, A. J., & García Quintero, C. L. (2022). Una mirada investigativa a la gestión ambiental y producción agropecuaria sostenible (1ª ed.). Universidad Francisco de Paula Santander; Ecoe Ediciones.',
-      link:
-        'https://repositorioinstitucional.ufpso.edu.co/xmlui/handle/20.500.14167/4827',
     },
   ],
   creditos: [
@@ -345,7 +336,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

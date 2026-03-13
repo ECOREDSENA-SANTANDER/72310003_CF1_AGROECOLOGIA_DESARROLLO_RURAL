@@ -186,7 +186,7 @@
 
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-        h2 1.3 Impactos y, cuestionamientos al modelo agrícola convencional
+        h2 1.3 Impactos y cuestionamientos al modelo agrícola convencional
       
       p El análisis del modelo agrícola convencional requiere una mirada integral que permita comprender no solo sus resultados productivos, sino también sus efectos sociales y económicos, así como los cuestionamientos que han surgido frente a su sostenibilidad.  
       p.mb-4 Resulta pertinente examinar tanto sus impactos estructurales como las principales críticas formuladas desde enfoques alternativos de desarrollo rural. 

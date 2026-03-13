@@ -51,7 +51,6 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h4 Funciones del suelo 
-              p En el contexto agropecuario, el suelo tiene diversos usos, entre ellos: 
               ul.lista-ul--color.color-primario.fa-lista
                 li
                   i.fas.fa-check
