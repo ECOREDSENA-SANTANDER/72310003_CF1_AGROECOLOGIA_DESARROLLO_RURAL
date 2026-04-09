@@ -201,7 +201,7 @@
         .bg-white.tarjeta.p-4
           TarjetaAudio.color-acento-botones(
             texto="¿Por qué Colombia es tan importante en agua?"
-            :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+            :audio="require('@/assets/componentes/audios/Podcast_CF1_72310003.mp3')"
             @audio-hover="mostrarIndicadorTarjetaAudio = false"
           )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
