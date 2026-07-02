@@ -52,7 +52,7 @@
       .col-lg-11.col-md-10.col-9
         p.mb-0 A nivel mundial, millones de personas dependen de la agricultura familiar y campesina para su subsistencia. Diversos informes de la Organización de las Naciones Unidas para la Alimentación y la Agricultura señalan que la agricultura familiar produce una proporción significativa de los alimentos consumidos globalmente. 
 
-    p Las características globales del campesinado, incluyen: 
+    p Las características globales del campesinado incluyen: 
 
     .row.justify-content-center.mb-3(data-aos="fade")
       .col-lg-3.col-md-6.mb-3
